@@ -2,4 +2,4 @@
 
 cd Account-cloner
 
-python2 Account-cloner.py
+python2 Account-cloner/mohammad_hacker.py
